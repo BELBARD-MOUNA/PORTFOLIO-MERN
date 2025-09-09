@@ -155,8 +155,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Express.js](https://expressjs.com/)
 - [Nodemon](https://nodemon.io/)
 
-## Contact
-
-Mohamed EL MACHHOUNE - [@ELMACHHOUNE](https://github.com/ELMACHHOUNE) - mohamed.elmachhoune@gmail.com
-
-Project Link: [https://github.com/ELMACHHOUNE/MERN-Stack-portfolio](https://github.com/ELMACHHOUNE/MERN-Stack-portfolio)
